@@ -1,12 +1,12 @@
 Hi🖖
 
- :briefcase: **Founder/Full Stack Engineer** at [Spolus](https://www.spolus.io/)
+<img src="./programmer.png" width=30 height=25></img> **Founder/Full Stack Engineer** at [Spolus](https://www.spolus.io/)
 
-🎓 **Software Engineering Student** at [École 42](https://www.42sp.org.br/) SP.
+<img src="./graduating-student.png" width=30 height=25></img> **Software Engineering Student** at [École 42](https://www.42sp.org.br/) SP.
 
 Passionated about computing and hardware in general, studying the basic principles of both. 
 
-Enthusiast of the IoT world and technologies for long-range communication.
+<img src="./internet-of-things.png" width=40 height=35></img> Enthusiast of the IoT world and technologies for long-range communication.
 
 
 #### Languages and tools i have used:
