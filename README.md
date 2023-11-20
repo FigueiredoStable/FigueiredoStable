@@ -1,6 +1,6 @@
 Hi🖖
 
-👨🏻‍💻 **Founder/Full Stack Engineer** at [Spolus](https://www.spolus.io/)
+👨🏻‍💻 **Founder at [Spolus](https://www.spolus.io/)
 
 👨🏻‍🎓 **Software Engineering Student** at [École 42](https://www.42sp.org.br/) SP.
  
