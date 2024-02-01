@@ -18,7 +18,3 @@ Hi🖖
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=figueiredoStable&theme=synthwave&hide_border=false&card_width=800) 
 
 ![Languages](https://github-readme-stats-figueiredostable.vercel.app/api/top-langs/?username=figueiredostable&langs_count=10&layout=compact&theme=synthwave&exclude_repo=github-readme-stats-fs,figueiredostable.github.io&hide=html&card_width=800)
-
-
----
-![](https://visitcount.itsvg.in/api?id=figueiredoStable&icon=2&color=0)
