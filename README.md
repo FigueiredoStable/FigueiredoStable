@@ -19,4 +19,4 @@ Hi🖖
 
 ![Languages](https://github-stats-theta-eight.vercel.app/api/top-langs/?username=figueiredostable&langs_count=10&layout=compact&theme=synthwave&exclude_repo=github_stats,github-readme-streak-stats,figueiredostable.github.io&hide=html&card_width=800)
 
-![Harlok's WakaTime stats](https://github-stats-theta-eight.vercel.app/api/wakatime?username=figueiredostabletime)
+![Harlok's WakaTime stats](https://github-stats-theta-eight.vercel.app/api/wakatime?username=figueiredostabletime&layout=compact&theme=synthwave&hide=html&card_width=800)
