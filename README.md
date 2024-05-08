@@ -15,6 +15,6 @@ Hi🖖
 
 ![Stats](https://github-stats-theta-eight.vercel.app/api?username=figueiredostable&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&card_width=800)
 
-![GitHub Streak](https://github-readme-streak-stats-3r2jcydlb-figueiredostables-projects.vercel.app?user=figueiredostable&theme=synthwave&mode=weekly&card_width=800)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats-3r2jcydlb-figueiredostables-projects.vercel.app?user=figueiredostable&theme=synthwave&mode=weekly&card_width=800)
 
 ![Languages](https://github-stats-theta-eight.vercel.app/api/top-langs/?username=figueiredostable&langs_count=10&layout=compact&theme=synthwave&exclude_repo=github-readme-stats-fs,figueiredostable.github.io&hide=html&card_width=800)
