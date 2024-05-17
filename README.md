@@ -1,8 +1,6 @@
 Hi🖖
 
 👨🏻‍💻 **Founder** at [Spolus](https://www.spolus.io/)
-
-👨🏻‍🎓 **Software Engineering Student** at [École 42](https://www.42sp.org.br/) SP.
  
 🖥️ Passionated about computing and hardware in general, studying the basic principles of both.
 
