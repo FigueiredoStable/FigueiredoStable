@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Generate stats card
-        uses: stats-organization/github-stats-extended-action@v2
+        uses: stats-organization/github-readme-stats-actio@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&rank_icon=default&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=default&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula
