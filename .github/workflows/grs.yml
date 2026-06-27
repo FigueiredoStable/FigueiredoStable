@@ -42,9 +42,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&layout=compact&theme=synthwave&hide=html&card_width=800
+          options: username=figueiredostabletime&layout=compact&theme=synthwave&hide=html&card_width=800
           path: profile/wakatime-stats.svg
-          token: ${{ secrets.TOKEN_FOR_STATUS_GRAPHS }}
+          token: ${{ secrets.WAKATIME_API }}
 
       - name: Commit cards
         run: |
