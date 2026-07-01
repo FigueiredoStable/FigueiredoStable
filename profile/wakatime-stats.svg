@@ -1,8 +1,8 @@
 
       <svg
         width="800"
-        height="90"
-        viewBox="0 0 800 90"
+        height="190"
+        viewBox="0 0 800 190"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -124,8 +124,142 @@
       <rect x="25" y="0" width="745" height="8" fill="white" rx="5" />
       </mask>
       
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="0"
+            y="0"
+            width="377.37699999999995"
+            height="8"
+            fill="#f34b7d"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="377.37699999999995"
+            y="0"
+            width="139.139"
+            height="8"
+            fill="#555555"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="516.516"
+            y="0"
+            width="129.59099999999998"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="646.107"
+            y="0"
+            width="51.821000000000005"
+            height="8"
+            fill="#00B4AB"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="697.928"
+            y="0"
+            width="46.2"
+            height="8"
+            fill="#d1dbe0"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="744.128"
+            y="0"
+            width="19.942999999999998"
+            height="8"
+            fill="#083fa1"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="764.071"
+            y="0"
+            width="3.08"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="767.1510000000001"
+            y="0"
+            width="2.695"
+            height="8"
+            fill="#3178c6"
+          />
+        
       
-    <text x="25" y="11" class="stat bold" fill="#e5289e">User doesn't publicly share detailed code statistics</text>
+    <g transform="translate(25, 25)">
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C++ - 5 hrs 20 mins
+      </text>
+    </g>
+  
+    <g transform="translate(382.5, 25)">
+      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C - 1 hr 58 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Bash - 1 hr 50 mins
+      </text>
+    </g>
+  
+    <g transform="translate(382.5, 50)">
+      <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Dart - 44 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 75)">
+      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        INI - 39 mins
+      </text>
+    </g>
+  
+    <g transform="translate(382.5, 75)">
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Markdown - 16 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 100)">
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Other - 2 mins
+      </text>
+    </g>
+  
+    <g transform="translate(382.5, 100)">
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        TypeScript - 2 mins
+      </text>
+    </g>
   
     
     </svg>
