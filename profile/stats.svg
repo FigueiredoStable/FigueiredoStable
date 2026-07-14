@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shunkichi Amano's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 179, Total PRs: 3, Total PRs Merged: 2, Merged PRs Percentage: 66.67, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 3, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 180, Total PRs: 3, Total PRs Merged: 2, Merged PRs Percentage: 66.67, Total PRs Reviewed: 0, Total Issues: 7, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 0, PRs Reviewed: 0, Issues Commented: 3, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 219.16596360061524;
+        stroke-dashoffset: 219.09535872961243;
       }
     }
   
@@ -169,7 +169,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >179</text>
+      >180</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
